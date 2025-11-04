@@ -241,6 +241,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "jp.suzuryg.face-emo": {
+      "version": "file:jp.suzuryg.face-emo",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "nadena.dev.modular-avatar": {
       "version": "file:nadena.dev.modular-avatar",
       "depth": 0,

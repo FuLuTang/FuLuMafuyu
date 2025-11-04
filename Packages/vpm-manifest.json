@@ -35,6 +35,9 @@
     },
     "gogoloco": {
       "version": "1.8.6"
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.6.3"
     }
   },
   "locked": {
@@ -105,6 +108,10 @@
       "dependencies": {
         "com.vrchat.avatars": ">=3.2.2"
       }
+    },
+    "jp.suzuryg.face-emo": {
+      "version": "1.6.3",
+      "dependencies": {}
     }
   }
 }

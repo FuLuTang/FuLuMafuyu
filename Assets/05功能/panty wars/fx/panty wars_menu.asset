@@ -14,7 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Parameters: {fileID: 0}
   controls:
-  - name: panty wars
+  - name: "\u5077\u80D6\u6B21\uFF01Steal!"
     icon: {fileID: 2800000, guid: e64cb789f3c9eca4abfed00b85fb0eb4, type: 3}
     type: 102
     parameter:
