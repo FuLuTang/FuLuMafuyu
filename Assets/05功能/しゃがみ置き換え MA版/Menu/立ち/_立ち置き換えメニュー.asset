@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "_\u7ACB\u3061\u7F6E\u304D\u63DB\u3048\u30E1\u30CB\u30E5\u30FC"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u30C7\u30D5\u30A9\u30EB\u30C8"
+    icon: {fileID: 2800000, guid: b8e19996b6de87c439aed6411f468265, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u7ACB\u3061"
+    icon: {fileID: 2800000, guid: a0d0ce811c30e764dbf66d5f403dc703, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2fdfce1d7f3623a4db6025eaaf6562e3, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u6905\u5B50"
+    icon: {fileID: 2800000, guid: e5e97f4ec1a468747bc342b633ada25a, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 5a76e84a54716b74392e329ba9e7100e, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u6D6E\u904A"
+    icon: {fileID: 2800000, guid: 03a80581c5a8bbd46ba5660c88c7d0ae, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: e9dea0d5af036c54d984261c47756e13, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30DD\u30FC\u30BA"
+    icon: {fileID: 2800000, guid: d8ffb355e151dd44488dca23a7c9f75b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 966264baf862f7e46934eae065192f2e, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30DD\u30FC\u30BA2"
+    icon: {fileID: 2800000, guid: d8ffb355e151dd44488dca23a7c9f75b, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: cab9669a614bce34e8178b2eb7e846a7, type: 2}
+    subParameters: []
+    labels: []

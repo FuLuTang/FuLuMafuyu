@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u30B5\u30D6\u30E1\u30CB\u30E5\u30FC"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u3059\u3079\u3066\u30EA\u30BB\u30C3\u30C8"
+    icon: {fileID: 2800000, guid: 4e8401a5e3b3e734a8df4d1bc530161f, type: 3}
+    type: 101
+    parameter:
+      name: CrouchReplace_Reset
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u7ACB\u3061\u7F6E\u63DB"
+    icon: {fileID: 2800000, guid: 129b00c7938e29a46add836a5b25ffa8, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 2e00ae8ba36ce0049b6f2783e342e388, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u3057\u3083\u304C\u307F\u7F6E\u63DB"
+    icon: {fileID: 2800000, guid: 8e75aca10d1b79742b58466ea659a0a5, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 358431ce821d9f04c95702b142cf8ee4, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u4F0F\u305B\u7F6E\u63DB"
+    icon: {fileID: 2800000, guid: b89f48036bf739d498a300fa38d1d4af, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 079a9c141e0a791468b3cb4f5d489cda, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u4E0A\u66F8\u304D"
+    icon: {fileID: 2800000, guid: 1318bd6b6571d944ea1c5e0eb625a2a3, type: 3}
+    type: 103
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 11400000, guid: 935a0e2b067fe6245aa7db337c946665, type: 2}
+    subParameters: []
+    labels: []
+  - name: "\u30A2\u30CB\u30E1\u512A\u5148\u30E2\u30FC\u30C9"
+    icon: {fileID: 2800000, guid: 2f7b07ec6569cdf41800f930790e87e3, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_AnimPriorityMode
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u79FB\u52D5\u7981\u6B62\u30E2\u30FC\u30C9"
+    icon: {fileID: 2800000, guid: 425bb175de4d5c54db3fdac2478d6e52, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_MoveLockMode
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

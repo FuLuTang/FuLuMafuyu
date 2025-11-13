@@ -261,6 +261,12 @@
       "source": "embedded",
       "dependencies": {}
     },
+    "net.markcreator.sizeprofiler": {
+      "version": "file:net.markcreator.sizeprofiler",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "vrchat.blackstartx.gesture-manager": {
       "version": "file:vrchat.blackstartx.gesture-manager",
       "depth": 0,

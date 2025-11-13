@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u6A2A\u5411\u304D(\u5DE6) 01"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u307E\u3063\u3059\u3050"
+    icon: {fileID: 2800000, guid: d0d4f71fb206c8c4c8e4d4e558561d2f, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.401
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5BDD\u305D\u3079\u308A"
+    icon: {fileID: 2800000, guid: 3f4e63c9c5f23294c8a783cdf7273863, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.404
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u4F11\u65E5"
+    icon: {fileID: 2800000, guid: 4f384e748bb6e1d4cb7c7b166e0e3d2e, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.403
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u4E09\u89D2\u5EA7\u308A"
+    icon: {fileID: 2800000, guid: 7d48934b29d7d3146a24ce225c793e53, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.402
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u811A\u305F\u305F\u307F"
+    icon: {fileID: 2800000, guid: 87f95d79880db494491d0e9b44687793, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.405
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8170\u3072\u306D\u308A"
+    icon: {fileID: 2800000, guid: ea31f6a70e80dec4faac7e3a2eae7d1e, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.406
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8170\u3072\u306D\u308A\u9006"
+    icon: {fileID: 2800000, guid: 9f9b1a28bd9334243b6c83718e511512, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.407
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u56DE\u5FA9\u4F53\u4F4D"
+    icon: {fileID: 2800000, guid: 9edd653355176ee4dafa158a7200193c, type: 3}
+    type: 102
+    parameter:
+      name: ProneReplace
+    value: 0.408
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

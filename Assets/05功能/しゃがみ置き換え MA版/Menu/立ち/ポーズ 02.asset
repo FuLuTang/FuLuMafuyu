@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u30DD\u30FC\u30BA 02"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u7740\u5730"
+    icon: {fileID: 2800000, guid: 5aa42f5e3bb8a474ebee38fa5d158d9d, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.503
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30C9\u30E4"
+    icon: {fileID: 2800000, guid: a4b41536f8fcec2488d5beac9418c2f6, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.505
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u99C6\u3051\u308B"
+    icon: {fileID: 2800000, guid: 6910ef35cefe5d047a392857b417488b, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.508
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8E0F\u307F\u8FBC\u307F"
+    icon: {fileID: 2800000, guid: c4d264f0571306345b92fab5318ce5bd, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.502
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30CF\u30A4\u30AD\u30C3\u30AF"
+    icon: {fileID: 2800000, guid: b7be3090bb108834f8eb6c483986ba93, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.504
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30A8\u30A2\u30ED\u30D0\u30A4\u30AF"
+    icon: {fileID: 2800000, guid: 93829bfc9d1c262469f50980d376ac84, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.501
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30CF\u30A4\u30BF\u30C3\u30C1(\u53F3)"
+    icon: {fileID: 2800000, guid: 790f3c5094662dc419551d095fa2136b, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.506
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30CF\u30A4\u30BF\u30C3\u30C1(\u5DE6)"
+    icon: {fileID: 2800000, guid: cbaf0d4cc56d0e948925f9143f81f9c5, type: 3}
+    type: 102
+    parameter:
+      name: StandReplace
+    value: 0.507
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

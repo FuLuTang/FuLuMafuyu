@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u5EA7\u308B(\u6905\u5B50) 01"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u304D\u3063\u3061\u308A"
+    icon: {fileID: 2800000, guid: d63636b7c4df6c449b6d85e68c57107f, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 21
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5185\u80A1"
+    icon: {fileID: 2800000, guid: 22680f2cc19d9764ea183e67becfbb27, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 22
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u5185\u80A1\u305A\u3089\u3057"
+    icon: {fileID: 2800000, guid: f559accfd1521cd499502bb770b354be, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 25
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8DB3\u7D44\u307F"
+    icon: {fileID: 2800000, guid: f7a7cd6a3f216954e99b3a3906b7bf5e, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 23
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u819D\u5BC4\u305B"
+    icon: {fileID: 2800000, guid: e6f4217378ab8e9478fd25d5e8dfe27a, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 24
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8DB3\u4E57\u305B"
+    icon: {fileID: 2800000, guid: 5b49eb496b885e94d967d146b0491b9e, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 26
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8DB3\u4E57\u305B\u4EA4\u5DEE"
+    icon: {fileID: 2800000, guid: dce4123f31c82ed4aba740a0ce4ad8d7, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 27
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u8DB3\u6D6E\u304B\u305B"
+    icon: {fileID: 2800000, guid: 197b57dc35f8fbb48be336de5640541d, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace_Overwrite
+    value: 28
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []

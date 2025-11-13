@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: "\u3057\u3083\u304C\u307F 01"
+  m_EditorClassIdentifier: 
+  controls:
+  - name: "\u819D\u7ACB\u3061"
+    icon: {fileID: 2800000, guid: d2c0ce6a0e10cf34691473172f63686b, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.109
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u4E59\u5973"
+    icon: {fileID: 2800000, guid: c16a63d982c448841a2e7959e7309e41, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.107
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30BB\u30AF\u30B7\u30FC"
+    icon: {fileID: 2800000, guid: 3f31f2760c68f634ba36dd26de0d6f27, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.104
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u30B9\u30DD\u30FC\u30C6\u30A3"
+    icon: {fileID: 2800000, guid: 4a222191e756d154f8a975d6dc86599f, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.103
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u738B\u5B50\u69D8"
+    icon: {fileID: 2800000, guid: a142fd2c17dac5b44afa7c7c4da72f32, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.108
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3042\u3084\u3059\u3088\u3046\u306B"
+    icon: {fileID: 2800000, guid: 587ddcc09ba4043439c4ea70ca5d5235, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.101
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u3060\u308B\u3044"
+    icon: {fileID: 2800000, guid: bafa12fd778d05a45a0799265edaa6be, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.102
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
+  - name: "\u4E2D\u8170"
+    icon: {fileID: 2800000, guid: 26184297a8adb7c4aa18b7e5ec41f51b, type: 3}
+    type: 102
+    parameter:
+      name: CrouchReplace
+    value: 0.106
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
