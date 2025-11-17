@@ -66,6 +66,8 @@ public class MeshSyncPro : EditorWindow
     bool showAdvancedSettings = false; // 詳細設定は最初は非表示
     Animator animator;
 
+    Vector2 mainScrollPosition; // 新增主滚动条变量
+
     void OnEnable()
     {
         SceneView.duringSceneGui += OnSceneGUI;
@@ -79,6 +81,8 @@ public class MeshSyncPro : EditorWindow
 
     void OnGUI()
     {
+        mainScrollPosition = EditorGUILayout.BeginScrollView(mainScrollPosition); // 开始滚动视图
+
         // 标题和操作指南
         EditorGUILayout.LabelField("MeshSyncPro", EditorStyles.boldLabel);
         EditorGUILayout.HelpBox(
@@ -226,6 +230,8 @@ public class MeshSyncPro : EditorWindow
             StartAutoFixIterations();
         }
         GUI.enabled = true;
+
+        EditorGUILayout.EndScrollView(); // 结束滚动视图
     }
 
     void StartAutoFixIterations()
