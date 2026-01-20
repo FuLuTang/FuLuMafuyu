@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_IsabellePony_Gradation_04
+  m_Shader: {fileID: 4800000, guid: efa77a80ca0344749b4f19fdd5891cbe, type: 3}
+  m_Parent: {fileID: 2100000, guid: 5e8db9bf90ab57a4a95057c5c94a79aa, type: 2}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseColorMap:
+        m_Texture: {fileID: 2800000, guid: ea58b51a797bfed499bf44ce8e563fe1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseMap:
+        m_Texture: {fileID: 2800000, guid: ea58b51a797bfed499bf44ce8e563fe1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainColorAdjustMask:
+        m_Texture: {fileID: 2800000, guid: e5b92c5c6ae67ff4596ec27dcda62f72, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainGradationTex:
+        m_Texture: {fileID: 2800000, guid: 22c41ff6dc54ccf4b878c6e848cf802a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: ea58b51a797bfed499bf44ce8e563fe1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OutlineTex:
+        m_Texture: {fileID: 2800000, guid: ea58b51a797bfed499bf44ce8e563fe1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _MainGradationStrength: 1
+    - _UseMain2ndTex: 0
+    m_Colors:
+    - _BaseColor: {r: 1, g: 0.91678137, b: 0.8632076, a: 1}
+    - _Color: {r: 1, g: 0.91678137, b: 0.8632076, a: 1}
+    - _MainTexHSVG: {r: 0, g: 1, b: 0.89, a: 1}
+    - _ReflectionColor: {r: 0.38743266, g: 0.34509805, b: 0.42352942, a: 0.5}
+    - _RimColor: {r: 0.69803923, g: 0.6291745, b: 0.54509807, a: 1}
+    - _Shadow2ndColor: {r: 0.8316584, g: 0.8, b: 0.8666667, a: 1}
+    - _ShadowColor: {r: 0.8508166, g: 0.8, b: 0.8666667, a: 1}
+  m_BuildTextureStacks: []
