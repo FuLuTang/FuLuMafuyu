@@ -1,0 +1,276 @@
+fileFormatVersion: 2
+guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SamenOnMouth
+    second: {fileID: 2100000, guid: a656f2c7f82f46845b65ac50686ddecd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'LeftUpperLeg' not found\n"
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Hips
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Chest
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftEye
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LeftEye_end
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SamenOnMouth(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: SamenOnMouth(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hips
+      parentName: Armature
+      position: {x: -8.413478e-17, y: -0.03258151, z: 0.80108476}
+      rotation: {x: 0.7071068, y: -0.00000008429372, z: -0.0000000842937, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Spine
+      parentName: Hips
+      position: {x: -8.413478e-17, y: 0.028839171, z: 0}
+      rotation: {x: 0, y: 2.842171e-14, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Chest
+      parentName: Spine
+      position: {x: -8.413478e-17, y: 0.08369851, z: 0}
+      rotation: {x: -0.12165928, y: 0.00000023664762, z: -1.3590295e-15, w: 0.99257195}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Neck
+      parentName: Chest
+      position: {x: -0.0000000017265668, y: 0.15977173, z: 0.0072417473}
+      rotation: {x: 0.14916576, y: 0.00000011787591, z: 0.000000053345886, w: 0.9888122}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Head
+      parentName: Neck
+      position: {x: 6.1360025e-16, y: 0.054268368, z: 9.313226e-10}
+      rotation: {x: -0.027759595, y: -0.00000035749034, z: -0.000000003309214, w: 0.99961466}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Cheek_root_L
+      parentName: Head
+      position: {x: -0.022895519, y: 0.009636759, z: 0.04653084}
+      rotation: {x: 0.7355892, y: -0.16836448, z: 0.44913796, w: 0.47836912}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cheek_L
+      parentName: Cheek_root_L
+      position: {x: -0.000000014901161, y: 0.010655953, z: 0.00000008381903}
+      rotation: {x: -0.0000025965273, y: 0.0000009723008, z: -0.0000007785857, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cheek_L_end
+      parentName: Cheek_L
+      position: {x: -0.000000016763806, y: 0.023555005, z: 0.000000013969839}
+      rotation: {x: 0.00000069476664, y: -0.0000038109722, z: -0.0000000037252907,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Cheek_L_end_end
+      parentName: Cheek_L_end
+      position: {x: -0, y: 0.028487245, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cheek_root_R
+      parentName: Head
+      position: {x: 0.022895541, y: 0.009636759, z: 0.046530828}
+      rotation: {x: 0.735589, y: 0.16836466, z: -0.44913843, w: 0.47836888}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cheek_R
+      parentName: Cheek_root_R
+      position: {x: 0.000000009313226, y: 0.0106558595, z: -0.000000077299774}
+      rotation: {x: -0.0000025369227, y: -0.00000084191566, z: 0.0000010263175, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999999}
+    - name: Cheek_R_end
+      parentName: Cheek_R
+      position: {x: -0.000000035390258, y: 0.023554925, z: -0.00000010430813}
+      rotation: {x: 0.0000006966293, y: 0.000001642853, z: 0.0000000018626451, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Cheek_R_end_end
+      parentName: Cheek_R_end
+      position: {x: -0, y: 0.028487245, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftEye
+      parentName: Head
+      position: {x: -0.030675104, y: 0.047050595, z: 0.024001038}
+      rotation: {x: 9.4039016e-38, y: 0.00000011920927, z: -1.3234915e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: LeftEye_end
+      parentName: LeftEye
+      position: {x: -0, y: 0.06963205, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightEye
+      parentName: Head
+      position: {x: 0.030675115, y: 0.047050595, z: 0.024001025}
+      rotation: {x: 9.4039016e-38, y: 0.00000011920927, z: -1.3234915e-23, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: RightEye_end
+      parentName: RightEye
+      position: {x: -0, y: 0.06963205, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Tang
+      parentName: Head
+      position: {x: 0.000000016638003, y: -0.0021046414, z: 0.06978485}
+      rotation: {x: 0.9144635, y: 0.000000022924942, z: 0.0000006557129, w: 0.40466836}
+      scale: {x: 1, y: 1.0000001, z: 1.0000004}
+    - name: Tang.001
+      parentName: Tang
+      position: {x: -1.0658141e-14, y: 0.006450359, z: 0.000000014901155}
+      rotation: {x: 0.10753188, y: -0.000000009731202, z: -0.00000017967183, w: 0.99420166}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: Tang.001_end
+      parentName: Tang.001
+      position: {x: -7.41629e-14, y: 0.008153718, z: -6.1062266e-15}
+      rotation: {x: 0.23402971, y: 2.237215e-13, z: 0.0000003347825, w: 0.9722294}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: Tang.001_end_end
+      parentName: Tang.001_end
+      position: {x: -0, y: 0.008349437, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SamenOnMouth
+      parentName: SamenOnMouth(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

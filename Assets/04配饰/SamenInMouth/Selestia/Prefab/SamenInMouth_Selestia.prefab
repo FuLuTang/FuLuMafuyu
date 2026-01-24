@@ -1,0 +1,1694 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3018351812773199769
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 3535448810225245480}
+    m_Modifications:
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3029886863043168630, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: animator
+      value: 
+      objectReference: {fileID: 9100000, guid: ae2ce78c7da013b4faaf2dc9b7838184, type: 2}
+    - target: {fileID: 5195214331327055385, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+        type: 3}
+      propertyPath: m_Name
+      value: FaceControl
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb, type: 3}
+--- !u!4 &3503226157468009872 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1837085306235157001, guid: ccdd9fc7a78338e47b767dc2e9a4e7cb,
+    type: 3}
+  m_PrefabInstance: {fileID: 3018351812773199769}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &3934693118723553987
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_Name
+      value: SamenInMouth_Selestia
+      objectReference: {fileID: 0}
+    - target: {fileID: 1996536531303970313, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_Name
+      value: Thread2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -2.5410708e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.032581512
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.80108476
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.0000000842937
+      objectReference: {fileID: 0}
+    - target: {fileID: 3742407835892290726, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.000000084293696
+      objectReference: {fileID: 0}
+    - target: {fileID: 3952081859573461784, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[12]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7186325522853481213, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_Name
+      value: Thread3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580234808529371062, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[27]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580234808529371062, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[28]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580234808529371062, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[29]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7580234808529371062, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[40]
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7740509758732444910, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_Name
+      value: SamenInMouth
+      objectReference: {fileID: 0}
+    - target: {fileID: 9149693578275109997, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 9149693578275109997, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      propertyPath: m_BlendShapeWeights.Array.data[0]
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects:
+    - {fileID: 635547659545568360, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077, type: 3}
+    m_AddedGameObjects:
+    - targetCorrespondingSourceObject: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3503226157468009872}
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7933295307076752281}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3429459749073584309}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 7560147407051982109}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8570410134352600408}
+    - targetCorrespondingSourceObject: {fileID: 7036213049465896255, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6745196112852482729}
+    - targetCorrespondingSourceObject: {fileID: -7933865249944900950, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8433219768138264846}
+    - targetCorrespondingSourceObject: {fileID: 3551362021121177388, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3521006375574997447}
+    - targetCorrespondingSourceObject: {fileID: 1996536531303970313, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3142183685083465358}
+    - targetCorrespondingSourceObject: {fileID: 7186325522853481213, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+        type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1740677040598456307}
+  m_SourcePrefab: {fileID: 100100000, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077, type: 3}
+--- !u!1 &563564006238670319 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3551362021121177388, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3521006375574997447
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 563564006238670319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_aa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_dd
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ff
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ih
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_kk
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_nn
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_oh
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ou
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_rr
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_th
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_a
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i 2 (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_u
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_o
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_wa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_awawa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25CB"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25B3"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_~\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_wide
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_narrow
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_sharp
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_maru
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_long
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_x
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_front
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_back
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jaw_morph_rori
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3042"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3044"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048\u30FC"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3046"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u304A"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u30EF"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u306F\u3093\u3063\uFF01"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u307A\u308D\u3063"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D\uFF12"
+    LocalBlendshape: 
+--- !u!1 &2846249797475045481 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -7933865249944900950, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &8433219768138264846
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2846249797475045481}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_aa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_dd
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ff
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ih
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_kk
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_nn
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_oh
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ou
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_rr
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_th
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_a
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i 2 (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_u
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_o
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_wa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_awawa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25CB"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25B3"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_~\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_wide
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_narrow
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_sharp
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_maru
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_long
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_x
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_front
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_back
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jaw_morph_rori
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3042"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3044"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048\u30FC"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3046"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u304A"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u30EF"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u306F\u3093\u3063\uFF01"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u307A\u308D\u3063"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D\uFF12"
+    LocalBlendshape: 
+--- !u!1 &3256043082885778634 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1996536531303970313, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &3142183685083465358
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3256043082885778634}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_aa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_dd
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ff
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ih
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_kk
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_nn
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_oh
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ou
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_rr
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_th
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_a
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i 2 (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_u
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_o
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_wa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_awawa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25CB"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25B3"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_~\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_wide
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_narrow
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_sharp
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_maru
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_long
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_x
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_front
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_back
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jaw_morph_rori
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3042"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3044"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048\u30FC"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3046"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u304A"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u30EF"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u306F\u3093\u3063\uFF01"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u307A\u308D\u3063"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D\uFF12"
+    LocalBlendshape: 
+--- !u!4 &3535448810225245480 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4205165072726476690 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &7933295307076752281
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4205165072726476690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1bb122659f724ebf85fe095ac02dc339, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 9100000, guid: 020b95f89f49fdb4f92bdf2af646437a, type: 2}
+  layerType: 5
+  deleteAttachedAnimator: 1
+  pathMode: 0
+  matchAvatarWriteDefaults: 0
+  relativePathRoot:
+    referencePath: 
+    targetObject: {fileID: 0}
+  layerPriority: 0
+  mergeAnimatorMode: 0
+--- !u!95 &3429459749073584309
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4205165072726476690}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 020b95f89f49fdb4f92bdf2af646437a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &7560147407051982109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4205165072726476690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ef83cb0c23d4d7c9d41021e544a1978, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menuToAppend: {fileID: 11400000, guid: c7a17e5edfa03624f8ab916515b8e58e, type: 2}
+  installTargetMenu: {fileID: 0}
+--- !u!114 &8570410134352600408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4205165072726476690}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71a96d4ea0c344f39e277d82035bf9bd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  parameters:
+  - nameOrPrefix: Amount
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 2
+    localOnly: 0
+    defaultValue: 0
+    saved: 0
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: Samen
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 0
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+  - nameOrPrefix: Digest
+    remapTo: 
+    internalParameter: 0
+    isPrefix: 0
+    syncType: 3
+    localOnly: 0
+    defaultValue: 0
+    saved: 0
+    hasExplicitDefaultValue: 1
+    m_overrideAnimatorDefaults: 0
+--- !u!1 &6133940589520072766 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7186325522853481213, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1740677040598456307
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6133940589520072766}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd7cab7d93b403280f2f9da978d8a4f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Bindings:
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_aa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_dd
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ff
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ih
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_kk
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_nn
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_oh
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_ou
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_rr
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: vrc.v_th
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_a
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_i 2 (no tooth)
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_u
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_e
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_o
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_wa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_grin (no tooth)_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_awawa
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25CB"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25B3"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "mouth_~\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_wide
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_narrow
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_sharp
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_maru
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_long
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_short
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tang_x
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 2
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_tehe 3
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_L
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_yodare_R
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_up
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_down
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_front
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: mouth_morph_back
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: jaw_morph_rori
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3042"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3044"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048\u30FC"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3046"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3048"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u304A"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u30EF"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u03C9\u25A1"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u306F\u3093\u3063\uFF01"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u307A\u308D\u3063"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D"
+    LocalBlendshape: 
+  - ReferenceMesh:
+      referencePath: Body
+      targetObject: {fileID: 0}
+    Blendshape: "\u3066\u3078\u307A\u308D\uFF12"
+    LocalBlendshape: 
+--- !u!1 &6286867808186861564 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7036213049465896255, guid: f4bd12a8bd4fc2e4ba6b8f7a44b4c077,
+    type: 3}
+  m_PrefabInstance: {fileID: 3934693118723553987}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &6745196112852482729
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6286867808186861564}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2df373bf91cf30b4bbd495e11cb1a2ec, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mergeTarget:
+    referencePath: Armature
+    targetObject: {fileID: 0}
+  prefix: 
+  suffix: 
+  legacyLocked: 0
+  LockMode: 2
+  mangleNames: 1

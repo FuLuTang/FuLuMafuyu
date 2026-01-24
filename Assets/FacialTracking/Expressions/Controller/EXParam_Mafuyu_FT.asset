@@ -589,3 +589,8 @@ MonoBehaviour:
     saved: 1
     defaultValue: 0
     networkSynced: 1
+  - name: "\u5934\u53D1\u6362\u8272"
+    valueType: 2
+    saved: 1
+    defaultValue: 0
+    networkSynced: 1
